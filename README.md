@@ -93,7 +93,7 @@ This should pop up a window playing a simple scene.
 
 Some useful flags include:
 * `-w` to write the scene to a file
-* `-o` to write the scene to a file and open the result
+* `-o` to write the scene to a file and open the result.
 * `-s` to skip to the end and just show the final frame.
     * `-so` will save the final frame to an image and show it
 * `-n <number>` to skip ahead to the `n`'th animation of a scene.
